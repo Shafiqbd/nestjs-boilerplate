@@ -1,0 +1,10 @@
+{
+  // Theme
+  "workbench.colorTheme": "Dracula",
+
+  "editor.wordWrap": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "explorer.confirmDelete": false,
+  "editor.fontSize": 15
+}
